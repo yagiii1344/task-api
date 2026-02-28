@@ -1,0 +1,45 @@
+# =========================
+# Dependencies
+# =========================
+node_modules/
+
+# =========================
+# Build / Coverage
+# =========================
+coverage/
+dist/
+build/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+
+# =========================
+# SQLite Databases
+# =========================
+data/*.db
+data/*.sqlite
+data/*.sqlite-*
+tests/tmp/
+
+# =========================
+# Logs
+# =========================
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/*
+!.vscode/extensions.json
