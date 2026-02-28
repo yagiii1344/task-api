@@ -11,6 +11,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/<OWNER>/<REPO>.git"
+  },
   "dependencies": {
     "better-sqlite3": "^12.6.2",
     "express": "^5.2.1"
