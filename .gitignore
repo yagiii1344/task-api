@@ -39,6 +39,11 @@ yarn-error.log*
 Thumbs.db
 
 # =========================
+# Temporary / Local Files
+# =========================
+body.json
+
+# =========================
 # IDE / Editor
 # =========================
 .vscode/*
